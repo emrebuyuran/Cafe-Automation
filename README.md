@@ -1,5 +1,5 @@
-# Cafe-Automation
-Object oriented programming project with Windows Forms
+# Cafe Otomasyon Programı
+Object oriented programming in school project with Windows Forms
 
 Kullanıcı ve Müşteri Tanımları : Program kimlere hitap ediyor => İşletme sahibi yani restoran tarzı gıda ve dinlenme hizmeti veren işletmelerinin işletmecilerine.
 
